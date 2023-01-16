@@ -1,5 +1,3 @@
 import ModalManager from './Modal.jsx';
 
-const JmModalOc = ModalManager;
-
-export default JmModalOc;
+export const JmModalOc = ModalManager;
