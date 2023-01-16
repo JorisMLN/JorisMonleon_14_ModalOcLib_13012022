@@ -17,8 +17,12 @@ const [modal, setModal] = useState(false);
 ```
 
 ### Set the modal
-Example:
+Set Import:
+```
+import { JmModalOc } from 'jm-modal-oc/src/index';
+```
 
+Example for the dom:
 ```
 <JmModalOc
   isOpen={modal} 
